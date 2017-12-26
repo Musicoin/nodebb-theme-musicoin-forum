@@ -1,0 +1,35 @@
+{
+  "name": "nodebb-theme-musicoin-forum",
+  "version": "1.0.0",
+  "nbbpm": {
+    "compatibility": "^1.7.0"
+  },
+  "description": "Musicoin Theme For forum.musicoin.org",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Musicoin/nodebb-theme-musicoin-forum"
+  },
+  "keywords": [
+    "nodebb",
+    "theme",
+    "forum",
+    "bootstrap",
+    "responsive"
+  ],
+  "contributors": [
+    {
+      "name": "Hayrullah Cansu",
+      "email": "hayrullahcansu@gmail.com",
+      "url": "https://github.com/hayrullahcansu"
+    }
+  ],
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Musicoin/nodebb-theme-musicoin-forum/issues"
+  },
+  "dependencies": {
+    "striptags": "^3.1.1",
+    "pulling": "^1.1.1"
+  }
+}

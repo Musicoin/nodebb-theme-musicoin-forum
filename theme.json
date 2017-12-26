@@ -1,0 +1,7 @@
+{
+    "id": "nodebb-theme-musicoin-forum",
+    "name": "Musicoin",
+    "description": "The default theme for Musicoin Forum. Uses a standard approach to forum design.",
+    "url": "https://github.com/Musicoin/nodebb-theme-musicoin-forum",
+    "screenshot": "screenshot.png"
+}
