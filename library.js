@@ -3,7 +3,7 @@
 var striptags = require('striptags');
 var meta = module.parent.require('./meta');
 var user = module.parent.require('./user');
-var Benchpress = require('benchpressjs');
+var Benchpress = module.parent.require('benchpressjs');
 
 var library = {};
 
