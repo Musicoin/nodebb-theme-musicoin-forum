@@ -148,7 +148,6 @@
 					</li>
 
 				</ul>
-				{function.json, config}
 				<!-- ELSE -->
 				<ul id="logged-out-menu" class="nav navbar-nav navbar-right">
 					<!-- IF allowRegistration -->
