@@ -148,18 +148,19 @@
 					</li>
 
 				</ul>
+				{function.json, config}
 				<!-- ELSE -->
 				<ul id="logged-out-menu" class="nav navbar-nav navbar-right">
 					<!-- IF allowRegistration -->
 					<li>
-						<a href="{config.relative_path}/login">
+						<a href="{config.appURL}/login">
 							<i class="fa fa-pencil visible-xs-inline"></i>
 							<span>[[global:register]]</span>
 						</a>
 					</li>
 					<!-- ENDIF allowRegistration -->
 					<li>
-						<a href="{config.relative_path}/login">
+						<a href="{config.appURL}/login">
 							<i class="fa fa-sign-in visible-xs-inline"></i>
 							<span>[[global:login]]</span>
 						</a>
@@ -241,7 +242,7 @@
 				<!-- ELSE -->
 				<ul class="nav navbar-nav navbar-right">
 					<li>
-						<a href="{config.relative_path}/login">
+						<a href="{config.appURL}/login">
 							<i class="fa fa-sign-in visible-xs-inline"></i>
 							<span>[[global:login]]</span>
 						</a>
