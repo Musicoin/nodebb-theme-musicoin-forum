@@ -83,6 +83,9 @@
 			<strong>{age}</strong>
 			<!-- ENDIF age -->
 		</div>
+		
+		<!-- IMPORT partials/account/custom_fields_musicoin.tpl -->
+
 	</div>
 
 
